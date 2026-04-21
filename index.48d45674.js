@@ -1,0 +1,2 @@
+var e=1;function t(t){var n,l=document.getElementsByClassName("mySlides");if(0!==l.length){for(t>l.length&&(e=1),t<1&&(e=l.length),n=0;n<l.length;n++)l[n].style.display="none";l[e-1].style.display="block"}}t(1),document.getElementById("prev-img").addEventListener("click",function(n){n.preventDefault(),t(e+=-1)}),document.getElementById("next-img").addEventListener("click",function(n){n.preventDefault(),t(e+=1)});
+//# sourceMappingURL=index.48d45674.js.map
