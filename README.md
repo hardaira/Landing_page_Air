@@ -5,7 +5,7 @@
     - [DEMO LINK](https://hardaira.github.io/Landing_page_Air/)
 
 3. Design reference link:
-    -https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=9138-35&t=WiERpcewy42176JN-0
+    - [FIGMA LINK](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=9138-35&t=WiERpcewy42176JN-0)
 
 4.This project was built using the following technologies:
 
@@ -21,7 +21,7 @@ GitHub: For hosting the repository, collaborative development, and project manag
 
 5. To set up the project locally:
     - Clone the repository:
-    git clone https://github.com/your-username/project-name.git
+    git clone https://github.com/hardaira/Landing_page_Air.git
     cd project-name
     -Install dependencies:
     npm install
